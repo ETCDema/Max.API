@@ -1,0 +1,6 @@
+{
+    "AccessToken"       :  "--- from settings.secret.json ---",
+
+    "TestBotID"         : 0,
+    "TestBotUserName"   :  "--- from settings.secret.json ---"
+}
